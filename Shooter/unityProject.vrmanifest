@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.shooter.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\wadeg\\Documents\\Projects\\Shooter\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Shooter [Testing]"
+        }
+      }
+    }
+  ]
+}
